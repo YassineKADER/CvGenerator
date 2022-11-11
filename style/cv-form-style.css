@@ -1,0 +1,58 @@
+h1{
+    color: red;
+}
+
+*{
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: rgb(255, 250, 245);
+}
+
+
+#personal-info{
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    background-color: aliceblue;
+transition: all 0.2S ease-in-out;
+}
+
+#personal-info:hover{
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.274);
+}
+
+#profeil-info{
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    background-color: aliceblue;
+}
+#profeil-info:hover{
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.274);
+}
+
+#exp-info{
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    background-color: aliceblue;
+}
+#exp-info:hover{
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.274);
+}
+#social-info{
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    background-color: aliceblue;
+}
+#social-info:hover{
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.274);
+}
+
