@@ -47,3 +47,4 @@ social_but.onclick = function(){
     s+=1;
     social_section.appendChild(social);
 }
+//js file
